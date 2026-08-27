@@ -1,15 +1,23 @@
 # Hi there, I’m Elvin 👋 ⚡
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ElvinGts&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Open_Source-Contributor-10b981?style=flat-square&logo=github" alt="Open Source" />
   <img src="https://img.shields.io/badge/Focus-AI_Agents_%26_Web_Engines-8b5cf6?style=flat-square" alt="Focus" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ElvinGts&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+
 ---
+
 
 ### 🚀 About Me
 Full-stack software developer & open-source contributor passionate about building high-performance client-side web applications, AI automation agents, and financial engines.
+
 
 - 🔭 **Currently Contributing to:** Open-source AI ecosystems, ORM query builders, and developer toolkits.
 - ⚡ **Featured Open-Source Work:**
@@ -18,9 +26,12 @@ Full-stack software developer & open-source contributor passionate about buildin
   - 🛠️ **[OmniTools Pro](https://omnitools-pro.surge.sh)**: 16-tool client-side developer utility platform (PWA enabled).
   - 🎮 **[Lumina Cascade Fusion](https://luminacascade.itch.io/lumina-cascade-fusion)**: HTML5 puzzle game engine with Web Audio API synthesizer.
 
+
 ---
 
+
 ### 🛠️ Tech Stack & Skills
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -32,21 +43,27 @@ Full-stack software developer & open-source contributor passionate about buildin
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+
 ---
 
+
 ### 📊 GitHub Activity & Metrics
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ElvinGts&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvinGts&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
 </p>
 
+
 ---
+
 
 ### 🏆 Open Source & Bounty Achievements
 - 🟢 **EdgeChains PR #647**: `$75 USD` AWS Comprehend Redactor
 - 🟢 **Drizzle ORM Issue #1603**: `$50 USD` Row Mapping Fix
 - 🟢 **Gyroflow Issue #742**: `$500 USD` Camera/Lens Engine Schema
+
 
 <p align="center">
   <i>"Building resilient software, one commit at a time."</i>
